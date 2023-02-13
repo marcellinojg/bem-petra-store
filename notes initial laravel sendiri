@@ -1,0 +1,11 @@
+Install composer :
+1. Download di https://getcomposer.org/download/
+2. Install
+
+Install XAMPP :
+1. Download di https://www.apachefriends.org/download.html
+2. Install
+
+Kalau sudah install composer :
+1. composer create-project laravel-laravel <nama project diisi sendiri>
+2. copy folder vendor + file .env, paste ke folder bem-petra-store
